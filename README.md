@@ -15,4 +15,4 @@ Tools & Skills Used:
 This project helped me strengthen my skills in data visualization and analytics, turning raw sales data into actionable insights for better business decisions.
 
 
-![image alt](https://github.com/priyankapawshe/Swiggy-Operations-And-Customer-Insights-Project/blob/5fe22e6b109f1e6323db204e9471459604e1f2ee/Screenshot%202025-10-14%20011042.png)
+![image alt](https://github.com/priyankapawshe/Chocolate-Sales-Analysis-Dashboard-in-Power-BI-/blob/main/Screenshot%202025-12-02%20192054.png)
